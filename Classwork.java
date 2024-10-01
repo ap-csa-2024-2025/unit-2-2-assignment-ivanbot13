@@ -13,5 +13,9 @@ public class Classwork
     double weight = sc.nextDouble();
     double total = amt * weight;
     System.out.println("So " + amt + " " + item + " at " + weight + " pounds each will weigh " + total + " pounds total");
+
+    System.out.println("\"That brain of mine is something more than merely mortal; as time will show.\"\nAda Lovelace\nThe first computer programmer");
+
+    
   }
 }
