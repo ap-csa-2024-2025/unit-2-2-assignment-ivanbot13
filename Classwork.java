@@ -16,6 +16,8 @@ public class Classwork
 
     System.out.println("\"That brain of mine is something more than merely mortal; as time will show.\"\nAda Lovelace\nThe first computer programmer");
 
-    
+    System.out.println("(\\(\\");
+    System.out.println("( - -)");
+    System.out.println("((\') (\')");
   }
 }
